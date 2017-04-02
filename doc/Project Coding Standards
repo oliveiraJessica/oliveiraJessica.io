@@ -1,0 +1,4 @@
+- Use ID always
+- Clean code! Refrain from using comments
+- Separate code in new files when possible
+- Use .ico instead of .jpg or .png
