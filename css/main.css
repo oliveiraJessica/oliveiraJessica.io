@@ -1,3 +1,35 @@
+.central-vert-align {
+  vertical-align: middle;
+}
+
+.parent-height{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.padding-container{
+  padding: 10%;
+}
+
+#profile-photo{
+  width: 70%;
+  height: auto;
+}
+
+.rounded-circle {
+		border-radius: 50%;
+	}
+
+.reduced-image{
+  width: 40%;
+  height: auto;
+}
+
+.polaroid{
+  background-color: white;
+}
+
 .footer {
   position: fixed;
   bottom: 0;
