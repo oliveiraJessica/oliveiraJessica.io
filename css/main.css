@@ -31,8 +31,16 @@
   margin: 2.5%;
 }
 
+.featurette-image{
+width: 500px;
+height: 400px;
+}
+
+#contact-card{
+  padding: 10%;
+}
+
 .footer {
-  position: fixed;
   bottom: 0;
   margin-bottom:0;
   width: 100%;
