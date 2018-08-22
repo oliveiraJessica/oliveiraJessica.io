@@ -41,8 +41,8 @@
 }
 
 .rounded-circle {
-		border-radius: 50%;
-	}
+  border-radius: 50%;
+}
 
 .reduced-image{
   width: 40%;
@@ -57,7 +57,7 @@
 
 .featurette-image{
 width: 500px;
-height: 400px;
+height: 100%;
 }
 
 #contact-card{
