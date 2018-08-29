@@ -49,6 +49,13 @@
   height: auto;
 }
 
+#banner_logo{
+  position: relative;
+  top: -100px;
+  z-index: 1;
+  left: 150px
+}
+
 .polaroid{
   background-color: white;
   margin: 2.5%;
